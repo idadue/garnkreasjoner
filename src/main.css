@@ -6,6 +6,12 @@ body {
 	padding: 50px;
 	text-align: center;
 }
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
 /* Wrapper */
 .icon-button {
 	background-color: white;
@@ -88,7 +94,7 @@ body {
 	color: #0077b5;
 }
 .icon-button .fa-instagram {
-	color: #d3d3d3;
+	color: #3b3b3b;
 }
 .icon-button .fa-github {
 	color: #333;
